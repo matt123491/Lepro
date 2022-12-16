@@ -1,5 +1,5 @@
 {
-  "pluginAlias": "ExampleHomebridgePlugin",
+  "pluginAlias": "Lepro",
   "pluginType": "platform",
   "singular": true,
   "schema": {
